@@ -8,7 +8,9 @@
 ![Capteur](https://img.shields.io/badge/capteur-TCS34725-informational)
 ![Statut](https://img.shields.io/badge/statut-prototype-yellow)
 
----
+![Capteur de ligne 3 canaux](media/line-sensor.jpg)
+
+*Capteur de ligne infrarouge 3 canaux monté sous le robot, au-dessus de la piste noire.*
 
 ## Aperçu / Overview
 
