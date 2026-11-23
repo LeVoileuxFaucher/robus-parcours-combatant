@@ -1,0 +1,27 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.code-workspace
+.qtcreator/
+
+# Bibliothèques tierces (non redistribuées)
+lib/
+
+# Artefacts de compilation
+build/
+*.hex
+*.bin
+*.elf
+*.map
+*.o
+*.a
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
